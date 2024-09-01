@@ -10,11 +10,11 @@
 
 <h4 align="center">
   <a href="https://github.com/airscripts">Profile</a>
-  ·
+  |
   <a href="https://github.com/sponsors/airscripts/">Sponsor</a>
-  ·
+  |
   <a href="https://airscript.it">Site</a>
-  ·
+  |
   <a href="https://github.com/airscripts?tab=repositories">Projects</a>
 </h4>
 
